@@ -1,0 +1,4 @@
+# Project exclude paths
+/api-commons/target/
+/order80/target/
+/payment8001/target/
